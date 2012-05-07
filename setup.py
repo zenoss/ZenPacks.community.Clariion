@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.Clariion"
 VERSION = "1.2.1"
 AUTHOR = "R.Esteve"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Clariion']
 INSTALL_REQUIRES = []
